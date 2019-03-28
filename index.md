@@ -9,10 +9,9 @@ If you prefer to not use the automatic generator, push a branch named `gh-pages`
 
 ### Authors and Contributors
 Current Contributors :
-Ankit Srivastava (@a18nov) Jul, 2016 - Present
+Dsl BD (@dslbd) copied from Ankit Srivastava (@a18nov) Jul, 2016 - Present
 
 ### Support or Contact
 Contact us at : 
-tagclub.vitu@gmail.com
-+91-9944411446
-+91-9994308086
+info@dishang.com.bd
++88-027416268
